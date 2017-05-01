@@ -10,7 +10,7 @@
 
 ## Cannot
 
-- ** CANNOT you any boilerplate
+- ** **CANNOT** use any boilerplate
 
 ## Plus
 
@@ -24,7 +24,7 @@
 ```
 Todo
 - text: String
-- is_done Boolean
+- is_done: Boolean
 ```
 
 ### API Spec
